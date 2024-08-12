@@ -1,0 +1,11 @@
+* MeatShield => m
+* Cannon Fodder => f
+* Critter => i
+* Waver => w
+* Tanker => t
+* Nuker => n
+* Rusher => r
+* Combo Slave => a
+* Crowd Controller => c
+* Sniper => s
+* User Rank Dump => d
